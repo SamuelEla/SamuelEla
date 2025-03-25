@@ -16,6 +16,9 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Redes**: PAN, LAN, WAN, MAN, GAN, VPN, IoT, Neuronales, ect.
 - **Seguridad**: Redes, aplicaciones, sistemas operativos, etc.
 
+## 💞️ Busco Colaborar En
+- Proyectos relacionados con **Criptografía, Criptoanlisis, Esteganografía**
+
 ## 📍 Ubicación
 - Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
 
