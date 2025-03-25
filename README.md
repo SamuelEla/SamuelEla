@@ -14,6 +14,10 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Herramientas DevOps**: Git, Maven, Github, Gitlab,  Docker, Sonarqube, Jenkins, Kubernetes, etc.
 - **Sistemas operativos**: Ubuntu, Kali linux, windows, mac, etc.
 
+## 📍 Ubicación
+-Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
+
+
 
 ## 📈 Mis estadísticas en GitHub
 
