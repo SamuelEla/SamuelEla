@@ -17,6 +17,16 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 ## 📍 Ubicación
 -Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
 
+## 📫 Cómo contactarme:
+- LinkedIn
+    <a href="https://www.linkedin.com/in/daniel-engonga-m-8031851bb">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="15" height="15" />
+    </a> 
+- Gmail
+   <a href="mailto:samuelela88@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="15" height="15" />
+    </a> 
+- Whatsapp
 
 
 ## 📈 Mis estadísticas en GitHub
