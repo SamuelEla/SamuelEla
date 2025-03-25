@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, me llamo Samuel Ela Nsogo Nsa
 
-<!--
-**SamuelEla/SamuelEla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+Soy Ingeniero en Telecomunicaciones y  y Magister en Seguridad Informática (Ciberseguridad) por la Universidad de Jaén, Fundador del grupo de investigación de Aplicaciones de las Tecnologías de la Información y Seguridad (ATIS) de la Universidad Afro-Americana de Africa Central, Investigador de la seguridad en las APIs y Wallet, Docente Titular Principal de la Universidad Afro-Americana de Africa Central.
 
-Here are some ideas to get you started:
+## Trabajo actualmente en:
+**ATIS** Aplicaciones de Tecnologías de la Información y Seguridad 
+**AAUCA** Universidad Afro-Americana de Africa Central como docente titular principala en la rama de informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Mis Habilidades
+- **Lenguajes de Programación**: Python, JavaScript, Java, C++, etc.
+- **Frameworks y Herramientas**: Django, Flask, Docker, Kubernetes
+- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Herramientas DevOps**: Git, Maven, Github, Gitlab,  Docker, Kubernetes, etc
+- **Sistemas operativos**: Ubuntu, Kali linux, windows, mac, etc
+
+
+## 📈 Mis estadísticas en GitHub
+
+### Total de commits (último año): 60
+### Total de solicitudes de extracción: 20
+### Contribuciones (último año): 7
 -->
