@@ -15,7 +15,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Sistemas operativos**: Ubuntu, Kali linux, windows, mac, etc.
 
 ## 📍 Ubicación
-- **Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
+- Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
 
 ## 📫 Cómo contactarme:
 - LinkedIn
