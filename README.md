@@ -13,7 +13,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 - **Herramientas DevOps**: Git, Maven, Github, Gitlab,  Docker, Sonarqube, Jenkins, Kubernetes, etc.
 - **Sistemas operativos**: Ubuntu, Kali linux, windows, mac, etc.
-- **Redes**: PAN, LAN, WAN, MAN, GAN, VPN, IoT, Neuronales, ect.
+- **Redes**: PAN, LAN, WAN, MAN, GAN, VPN, IoT,CNN, RNN, ect.
 - **Seguridad**: Redes, aplicaciones, sistemas operativos, etc.
 
 ## 💞️ Busco Colaborar En
