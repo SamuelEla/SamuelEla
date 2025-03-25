@@ -24,7 +24,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 
 ## 📫 Cómo contactarme:
 - LinkedIn
-    <a href="https://www.linkedin.com/in/daniel-engonga-m-80318(https://www.linkedin.com/in/samuel-ela-nsogo-nsa-483949194" >
+    <a href="https://www.linkedin.com/in/samuel-ela-nsogo-nsa-483949194" >
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="15" height="15" />
     </a> 
 - Gmail
