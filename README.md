@@ -5,7 +5,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 
 ## Trabajo actualmente en:
 - **ATIS**: Aplicaciones de Tecnologías de la Información y Seguridad como investigador aplicaciones moviles y seguridad en las APIS y Wallet.
-- **AAUCA**: Universidad Afro-Americana de Africa Central como docente titular principala en la rama de informática.
+- **AAUCA**: Universidad Afro-Americana de Africa Central como docente titular principal en la rama de informática.
 
 ## 🚀 Mis Habilidades
 - **Lenguajes de Programación**: Python, JavaScript, Java, C++, Android, etc.
@@ -15,7 +15,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Sistemas operativos**: Ubuntu, Kali linux, windows, mac, etc.
 
 ## 📍 Ubicación
--Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
+- **Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
 
 ## 📫 Cómo contactarme:
 - LinkedIn
