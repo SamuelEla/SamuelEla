@@ -8,7 +8,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **AAUCA**: Universidad Afro-Americana de Africa Central como docente titular principal en la rama de informática.
 
 ## 🚀 Mis Habilidades
-- **Lenguajes de Programación**: Python, JavaScript, Java, C++, Android, etc.
+- **Lenguajes de Programación**: Python, JavaScript, Java, C++, C, C#, asm, Android, etc.
 - **Frameworks y Herramientas**: Django, Flask, Sprint, etc.
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB
 - **Herramientas DevOps**: Git, Maven, Github, Gitlab,  Docker, Sonarqube, Jenkins, Kubernetes, etc.
