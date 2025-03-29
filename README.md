@@ -17,7 +17,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 - **Seguridad**: Redes, aplicaciones, sistemas operativos, etc.
 
 ## 💞️ Busco Colaborar En
-- Proyectos relacionados con **Criptografía, Criptoanlisis, Esteganografía**
+- Proyectos relacionados con **Criptografía, Criptoanlisis, Esteganografía y Ciberinteligencia**
 
 ## 📍 Ubicación
 - Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
