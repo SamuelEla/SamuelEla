@@ -21,7 +21,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 
 ## 📍 Ubicación
 - Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
-    <a href="https://maps.app.goo.gl/S7xDQNA4rNq9EjsV6" >
+    <a href="https://maps.app.goo.gl/E5Qdk7NK3f2EPav68" >
       <img src="https://github.com/user-attachments/assets/8df4fbbe-5701-4500-9799-ec21024101ad" width="15" height="15"/>
     </a> 
  
