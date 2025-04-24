@@ -21,6 +21,7 @@ Soy Ingeniero en Telecomunicaciones y Magister en Seguridad Informática (Cibers
 
 ## 📍 Ubicación
 - Djibloho, Ciudad de La Paz, Guinea Ecuatorial 🇬🇶
+  https://g.co/kgs/Xmzokod
 
 ## 📫 Cómo contactarme:
 - LinkedIn
